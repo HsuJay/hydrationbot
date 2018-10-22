@@ -5,8 +5,6 @@ defmodule Hydrationbot.SlackSender do
 
   def sendmsg(msg) do
     Poison.encode!(%{
-      "username" => "hydrationbot",
-      "icon_emoji" => ":potable_water:",
       "text" => msg
       })
     |> post_to_slack
