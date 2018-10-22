@@ -28,5 +28,5 @@ defmodule Hydrationbot.MixProject do
       {:plug_cowboy, "~> 2.0"},
       {:httpoison, "~> 1.4.0"}
     ]
-end
+  end
 end
