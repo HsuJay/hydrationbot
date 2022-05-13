@@ -1,6 +1,6 @@
 # Hydrationbot
 
-**TODO: Add description**
+Helps you you remember to stay hydrated, homie.
 
 ## Installation
 
